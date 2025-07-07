@@ -1,0 +1,3 @@
+/home/maxim/Рабочий стол/test/CMakeFiles/AnimalProject.dir
+/home/maxim/Рабочий стол/test/CMakeFiles/edit_cache.dir
+/home/maxim/Рабочий стол/test/CMakeFiles/rebuild_cache.dir

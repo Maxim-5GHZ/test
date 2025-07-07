@@ -4,5 +4,5 @@ void Fish::Print() {
     std::cout<<"Fish"<<std::endl;
 };
  Fish:: ~Fish(){
-    std::cout<<"sub"<<std::endl;
+    std::cout<<"Fish:: ~Fish()"<<std::endl;
  }

@@ -5,5 +5,5 @@ void Bird::Print() {
 };
 
 Bird::~Bird(){
-    std::cout<<"sub"<<std::endl;
+    std::cout<<"Bird::~Bird()"<<std::endl;
 }

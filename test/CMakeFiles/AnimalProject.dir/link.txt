@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/AnimalProject.dir/link.d CMakeFiles/AnimalProject.dir/Classes/Animal.cpp.o CMakeFiles/AnimalProject.dir/Classes/Bird.cpp.o CMakeFiles/AnimalProject.dir/Classes/Fish.cpp.o CMakeFiles/AnimalProject.dir/Classes/IPrintable.cpp.o CMakeFiles/AnimalProject.dir/main.cpp.o -o AnimalProject

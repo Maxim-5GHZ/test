@@ -3,5 +3,5 @@ void IPrintable::Print(){
     std::cout<<"IPrintable";
 }
 IPrintable::~IPrintable(){
-    std::cout<<"Base"<<std::endl;
+    std::cout<<"IPrintable::~IPrintable()"<<std::endl;
 }

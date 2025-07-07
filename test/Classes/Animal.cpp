@@ -5,5 +5,5 @@ void Animal::Print() {
     std::cout<<"Animal"<<std::endl;
 };
 Animal::~Animal(){
-    std::cout<<"sub"<<std::endl;
+    std::cout<<"Animal::~Animal()"<<std::endl;
 }
